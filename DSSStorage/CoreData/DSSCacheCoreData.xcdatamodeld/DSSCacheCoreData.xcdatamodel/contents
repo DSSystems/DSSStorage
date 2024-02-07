@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15400" systemVersion="18G103" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CDCacheData" representedClassName="CDCacheData" syncable="YES">
+        <attribute name="cacheTimeInterval" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="data" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="expirationDate" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="key" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="CDCacheData" positionX="-54" positionY="-9" width="128" height="103"/>
+    </elements>
+</model>
